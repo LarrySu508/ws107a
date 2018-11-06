@@ -1,11 +1,11 @@
 {
-  "name": "ccclodash3",
+  "name": "raylarry1124",
   "version": "0.0.1",
-  "description": "Reimplement lodash functions",
+  "description": "my package",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "ccc",
+  "author": "",
   "license": "MIT"
 }
